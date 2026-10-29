@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **PHP and JavaScript**
 
-- 🤝 I’m looking for help with [businesses and creators build professional, user-friendly websites that present their brand clearly and make it easy for customers to take action.](https://github.com/mosharrafog)
+- 🤝 I’m looking for help with [Web Design, Web Development & WordPress customization.](https://github.com/mosharrafog)
 
 - 👨‍💻 All of my projects are available at [www.linkedin.com/in/ mosharrafog](www.linkedin.com/in/ mosharrafog)
 
